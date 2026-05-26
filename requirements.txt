@@ -2,3 +2,4 @@ streamlit
 fastapi
 uvicorn
 pandas
+mysql-connector-python
